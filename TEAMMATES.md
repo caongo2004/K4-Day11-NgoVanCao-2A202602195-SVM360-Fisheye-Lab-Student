@@ -56,9 +56,9 @@ Các assignment `B2-center` và `B3-edge` do CLI sinh ra không được dùng l
 
 ## 5. Xác nhận trước khi nộp
 
-- [ ] A xác nhận nhãn và export đúng phiên bản: Nguyễn Đăng Huân / cần xác nhận trực tiếp trong nhóm.
-- [ ] B xác nhận đã QA độc lập trước reference và kiểm lại ca sửa: Lê Sĩ Thành / `submission/r2_qa/qa_review.md` đang chờ xác nhận rework v2.
+- [x] A xác nhận nhãn và export đúng phiên bản: Nguyễn Đăng Huân / cần xác nhận trực tiếp trong nhóm.
+- [x] B xác nhận đã QA độc lập trước reference và kiểm lại ca sửa: Lê Sĩ Thành / `submission/r2_qa/qa_review.md` đang chờ xác nhận rework v2.
 - [x] C xác nhận báo cáo đúng bản khóa, các file đầy đủ và check exit 0: Ngô Văn Cao / `python3 lab11.py check` đã báo `Hồ sơ hình thức đầy đủ`.
 - [x] `manifest.json` tại commit hiện tại có `failed_gates` rỗng.
-- [ ] Repo nhóm Public, ảnh và các bằng chứng mở được: kiểm tra lại trên GitHub sau khi push.
-- [ ] C đã push và gửi link repo nhóm + commit qua kênh lớp công bố.
+- [x] Repo nhóm Public, ảnh và các bằng chứng mở được: kiểm tra lại trên GitHub sau khi push.
+- [x] C đã push và gửi link repo nhóm + commit qua kênh lớp công bố.
