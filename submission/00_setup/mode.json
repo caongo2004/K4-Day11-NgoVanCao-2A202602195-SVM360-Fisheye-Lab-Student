@@ -1,0 +1,15 @@
+{
+  "members": [
+    "cao",
+    "huan",
+    "thanh"
+  ],
+  "assignments": {
+    "cao": "B2-center",
+    "huan": "B4-mid",
+    "thanh": "B3-edge"
+  },
+  "self": "huan",
+  "slice": "B4-mid",
+  "degrade": []
+}
