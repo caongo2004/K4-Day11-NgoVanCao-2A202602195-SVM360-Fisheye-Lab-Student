@@ -10,7 +10,7 @@
 - Tên định danh vai A dùng cho `--self`: **huan**
 - Kênh trao đổi nội bộ: zalo
 - Đại diện nộp (vai C): **Ngô Văn Cao - 2A202602195**
-- Commit: `92c2abe6f837370405a85608fe5d93c480e653fe`
+- Commit: `de1bc1fca799923348c582062e2484aaf37bab1b`
 
 ## 2. Ba vai chính
 
