@@ -1,0 +1,187 @@
+{
+  "files": [
+    {
+      "file": "00_setup/doctor.txt",
+      "lines": 5,
+      "sha256": "353223a4b0d10c7c2ad932a8e4db3a55065ef006bf051b0b2108733d75dbae3e"
+    },
+    {
+      "file": "00_setup/mode.json",
+      "lines": 15,
+      "sha256": "79434177390e0bf2e4b3c5c282beba660bf2a13ebfd3c8222181372150c8355f"
+    },
+    {
+      "file": "00_setup/sensor_context.md",
+      "lines": 7,
+      "sha256": "54922757a189fccaa6eb8c255eeb04fc03f4d80af9451ef9fb6975a63e463ab7"
+    },
+    {
+      "file": "parking/annotations.xml",
+      "lines": 67,
+      "sha256": "ad86d757c457dd4ab0b631f37819de2f590ad92c60bf4030070bb0fd1e76c962"
+    },
+    {
+      "file": "parking/observations.md",
+      "lines": 14,
+      "sha256": "efa4dea07c154f6e3bdab89b42e9a67a6f0de7f67edd33c573622a61096bb708"
+    },
+    {
+      "file": "p1_calib/annotations.xml",
+      "lines": 280,
+      "sha256": "d1902ff2430271da427cbe796967a0472452abe2cd07e0e38ae5d18d1bf86ab3"
+    },
+    {
+      "file": "p1_calib/lock.txt",
+      "lines": 9,
+      "sha256": "282ea95048d3547371f621ef5e2456796aabba63503b948dbc276fb2b6698a84",
+      "locked_at": "2026-09-29T11:42:32+07:00"
+    },
+    {
+      "file": "p1_calib/reference.txt",
+      "lines": 3,
+      "sha256": "c6afadf3d8f731c14b969f531e050c5e7e034f686043a334564e27171f39c1ba",
+      "lock_before_reveal": true
+    },
+    {
+      "file": "p1_calib/compare.md",
+      "lines": 16,
+      "sha256": "409090614736994352c69b0a9ba83a68e27c855a10d4fd677c034fcdee924de4"
+    },
+    {
+      "file": "p1_calib/compare.html",
+      "lines": 30,
+      "sha256": "42fe61eb7112b3f736598bff8cf76b61e2ee8984ab40cda000f497060ebb2105"
+    },
+    {
+      "file": "r1_craft/annotations.xml",
+      "lines": 332,
+      "sha256": "aef2a93944528abc291fdf6f6d2be71b7ea049f26e56c64cfde33431672c58ab"
+    },
+    {
+      "file": "r1_craft/lock.txt",
+      "lines": 19,
+      "sha256": "0ee6fe5a7ff769846b4329a27469e4ed330968f5db0f58c0aeb59ddb489026b7",
+      "locked_at": "2026-09-29T16:32:19+07:00"
+    },
+    {
+      "file": "r1_craft/selfqc.md",
+      "lines": 16,
+      "sha256": "ad1f986abd92a6b0fef3b81d3d4dcf45e15cf12539a7a4255865bef446a9d01c"
+    },
+    {
+      "file": "r1_craft/reference.txt",
+      "lines": 3,
+      "sha256": "b48e731487ca2af74326d76daa7158f89d764119cc47ff069d3a813b240f88df",
+      "lock_before_reveal": true
+    },
+    {
+      "file": "r1_craft/compare.md",
+      "lines": 29,
+      "sha256": "39c9859d1e01e33efd3f562b1584e5e597d537006f5af0f08d6dffb522f82744"
+    },
+    {
+      "file": "r1_craft/compare.html",
+      "lines": 52,
+      "sha256": "2f75f634a2a460285a47d23727da2dc14f370a00069023b306136e64b272822a"
+    },
+    {
+      "file": "r2_qa/qa_review.md",
+      "lines": 34,
+      "sha256": "4bce6b2836b87c1e0e94233f46fc415083981759af5aa345aa26d4d640cc73ee"
+    },
+    {
+      "file": "r2_qa/qa_overlay.html",
+      "lines": 18,
+      "sha256": "ebacbf5017356d2f76c6b4d9f7eca59a11377e723feb79391f2fec41e91e1dc0"
+    },
+    {
+      "file": "r3_diag/local_quality.md",
+      "lines": 49,
+      "sha256": "00d1e6667a4cb00c3549250e4bfb6c2b7723ddc9bc809c42cbaf3acc8d0962ab"
+    },
+    {
+      "file": "r3_diag/local_quality.json",
+      "lines": 329,
+      "sha256": "e935dc074765f8cca2bbe9b6535a7ec82fa1fe86f2598a36c1773d5c8ccca4a2"
+    },
+    {
+      "file": "r3_diag/local_quality_conflicts.csv",
+      "lines": 16,
+      "sha256": "927972f721ab930276e839c32e41cb2ee52772a11d183994b838a719021133d8"
+    },
+    {
+      "file": "r3_diag/local_quality_confusion.csv",
+      "lines": 7,
+      "sha256": "18b9132d1789c3c4b207591c899e80608fe5f634bf4368da5b677eb3b4c12735"
+    },
+    {
+      "file": "r3_diag/model_compare.md",
+      "lines": 43,
+      "sha256": "ffe564e14fa63f4ae414192c6a5ce86ab6d20598d9bb602c296fcf46ad759aa1"
+    },
+    {
+      "file": "r3_diag/model_compare.html",
+      "lines": 102,
+      "sha256": "45fd025369790d422b609515b4fe8612f25cb90a9830ff0314cdce924326ca5f"
+    },
+    {
+      "file": "r3_diag/zone_table.md",
+      "lines": 14,
+      "sha256": "9b90c2def0087d95823047ada71bb03dfc2d69cea9a57429a8c1076b17b72fcf"
+    },
+    {
+      "file": "findings.csv",
+      "lines": 47,
+      "sha256": "dcd4e0455d9e9926b47a4615c22739b0d15f83b3995b269c8481d32a4864be38"
+    },
+    {
+      "file": "20_guideline_patch.md",
+      "lines": 7,
+      "sha256": "3183157395ffa827ed7e875fa3610e82e6cd8a3ceabd322268aad776c82a0d76"
+    },
+    {
+      "file": "30_escalation_ticket.md",
+      "lines": 9,
+      "sha256": "bd7c145a4decbe64c31ab9145f53a364180b766d77ef495742dcd9fec4afb649"
+    },
+    {
+      "file": "40_decision_log.csv",
+      "lines": 1,
+      "sha256": "b08969b09d2c53145049c164142f6d8790d023a7e35a3c3e47eb6836408869f5"
+    },
+    {
+      "file": "45_review_plan.md",
+      "lines": 16,
+      "sha256": "f64f959fe1c264e1afb05f1d0cea7326a745e09c7f53bbbef0661b2b6d0bd016"
+    },
+    {
+      "file": "45_sampling_plan.csv",
+      "lines": 9,
+      "sha256": "3ce17ef3e9664e95a91f25f6f8ecdc0b7cfb09385ffdc6be8b194a7634f81cca"
+    },
+    {
+      "file": "46_gold_set_plan.md",
+      "lines": 18,
+      "sha256": "494b2cd3c219a83166c1202296574adfcea3ca8e6b844a1c669e813e9df8c30f"
+    },
+    {
+      "file": "50_exit_ticket.md",
+      "lines": 11,
+      "sha256": "a83b35348a01fda898a9554d9b21661e400e04cd4a2e079c058460f2e9087f9e"
+    }
+  ],
+  "failed_gates": [
+    "decision log cần ≥4 entry và ≥1 escalated",
+    "45_sampling_plan.csv chưa phải bảng phân bổ hợp lệ",
+    "Thiếu file rework/annotations-v2.xml",
+    "Thiếu file rework/lock2.txt",
+    "Thiếu file rework/delta.md",
+    "Thiếu file 10_error_card.md (chạy python3 lab11.py card)",
+    "Còn TODO trong 20_guideline_patch.md",
+    "Còn TODO trong 30_escalation_ticket.md",
+    "Còn TODO trong 45_review_plan.md",
+    "Còn TODO trong 45_sampling_plan.csv",
+    "Còn TODO trong 46_gold_set_plan.md",
+    "Còn TODO trong 50_exit_ticket.md"
+  ]
+}
