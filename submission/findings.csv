@@ -1,1 +1,4 @@
 round,slice,frame,object_ref,cell,what,why,severity,owner,rule_id,evidence,action,rules_version,note
+calib,C0,adasind_019560.jpg,L7,na,IGNORE_SCOPE,E5_unresolved,P2,Huan,R07,"Vùng ignore ở mép dưới-trái cần kiểm lại xem có đúng ego_body/lens_border theo ảnh gốc hay không","keep_with_reason",v1.0.0,"Chưa đủ bằng chứng để kết luận annotator sai"
+calib,C0,adasind_019560.jpg,L2+R2,na,WRONG_CLASS,E1_annotator_error,P1,Huan,R03,"L2 gán Pedestrian nhưng đối tượng đang ngồi/lái xe hai bánh; reference R2 là Bike","rework",v1.0.0,"Đổi class sang Bike nếu ảnh xác nhận rider đang ngồi trên xe"
+calib,C0,adasind_019560.jpg,L4+R3,na,WRONG_CLASS,E1_annotator_error,P1,Huan,R04,"L4 gán Truck nhưng đối tượng bên trái là phương tiện ba bánh; reference R3 là ThreeWheeler","rework",v1.0.0,"Đổi class sang ThreeWheeler"
