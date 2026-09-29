@@ -16,8 +16,8 @@
 
 | Vai | Họ và tên | MSSV | Tên định danh trong mode | Slice assignment | Trách nhiệm |
 |---|---|---|---|---|---|
-| A · Gán nhãn | Huan | 2A202602097 | `huan` | **B4-mid** | Parking, C0, slice chính, self-QC, lock, rework |
-| B · QA độc lập | Thanh | 2A202602125 | `thanh` | B3-edge | QA độc lập trên **slice chung B4-mid**, finding QA, kiểm lại rework |
+| A · Gán nhãn | Nguyễn Đăng Huân | 2A202602097 | `huan` | **B4-mid** | Parking, C0, slice chính, self-QC, lock, rework |
+| B · QA độc lập | Lê Sĩ Thành | 2A202602125 | `thanh` | B3-edge | QA độc lập trên **slice chung B4-mid**, finding QA, kiểm lại rework |
 | C · Chẩn đoán & điều phối | Ngô Văn Cao | 2A202602195 | `cao` | B2-center | Chẩn đoán trên **slice chung B4-mid**, phân xử, báo cáo, check và nộp |
 
 ### Cấu hình CLI đã tạo
