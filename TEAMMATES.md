@@ -10,7 +10,7 @@
 - Tên định danh vai A dùng cho `--self`: **huan**
 - Kênh trao đổi nội bộ: zalo
 - Đại diện nộp (vai C): **Ngô Văn Cao - 2A202602195**
-- Commit nền trước cập nhật hồ sơ: `25743bd2f74c3438bbafd25a0e4127b2c5496f80` ([submit](https://github.com/caongo2004/K4-Day11-NgoVanCao-2A202602195-SVM360-Fisheye-Lab-Student/commit/25743bd2f74c3438bbafd25a0e4127b2c5496f80)); cập nhật SHA commit chốt sau khi commit các thay đổi cuối.
+- Commit: `92c2abe6f837370405a85608fe5d93c480e653fe`
 
 ## 2. Ba vai chính
 
