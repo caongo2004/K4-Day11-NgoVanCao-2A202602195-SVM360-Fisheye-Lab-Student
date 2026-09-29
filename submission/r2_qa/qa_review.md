@@ -2,7 +2,7 @@
 
 - Mã khóa: 7E4F-2FE7
 - Người gán nhãn: huan.
-- Reviewer B: [Điền họ tên sau khi kiểm lại].
+- Reviewer B: Lê Sĩ Thành.
 - Nhận xét được trợ lý hỗ trợ từ ảnh gốc và XML của A, chưa dùng reference/model. B cần xác nhận trước khi chốt QA.
 
 ## Ba nhận xét chính

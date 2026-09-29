@@ -1,1 +1,5 @@
 id,date,question,decision,rationale,status
+D01,2026-09-29,Rework các box missing ở B4-mid,Giữ action=rework cho các ca R/M cùng thấy,Delta cho thấy matched tăng 3 lên 8 ở mid và missing giảm 12 xuống 5,rework_done
+D02,2026-09-29,Quan sát R4 frame adasind_261480,Escalate để kiểm ảnh gốc và H=40,Reference thấy nhưng model không thấy; chưa đủ bằng chứng để kết luận annotation sai,escalated
+D03,2026-09-29,Model M_only ở B4-mid,Giữ với lý do và giao ai_team đánh giá,Model có nhiều ca M_only nhưng slice chỉ có 3 frame; không sửa nhãn người theo một box model,kept_with_reason
+D04,2026-09-29,Phân bố lỗi theo zone,Ưu tiên review mid trước center,Mid có 12 missing trên 13 reference; edge không có reference nên chưa kết luận,review_priority

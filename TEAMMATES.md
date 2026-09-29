@@ -4,13 +4,13 @@
 
 - Khóa/lớp: K4
 - Tên nhóm: Thanh - Huan - Cao
-- Repo Public: [Điền link GitHub]
+- Repo Public: https://github.com/caongo2004/K4-Day11-NgoVanCao-2A202602195-SVM360-Fisheye-Lab-Student.git
 - Máy giữ hồ sơ chính / người quản lý: Cao
 - Slice chung lấy từ mode.json: **B4-mid**
 - Tên định danh vai A dùng cho `--self`: **huan**
-- Kênh trao đổi nội bộ: [Điền]
+- Kênh trao đổi nội bộ: zalo
 - Đại diện nộp (vai C): **Ngô Văn Cao - 2A202602195**
-- Commit chốt bài: [Điền sau]
+- Commit chốt bài: "submit"
 
 ## 2. Ba vai chính
 
@@ -41,8 +41,8 @@ Các assignment `B2-center` và `B3-edge` do CLI sinh ra không được dùng l
 | Mốc | Người giao → nhận | File / commit / mã khóa | Người nhận đã kiểm gì? | Trạng thái / vướng mắc |
 |---|---|---|---|---|
 | P0 · Chốt môi trường và vai | Cao → Huan, Thanh | `mode.json`, slice `B4-mid`, phân vai | Cả nhóm xác nhận slice chung | Đã cấu hình mode |
-| P2 · Khóa bản đầu | Huan → Thanh, Cao | XML, `lock.txt`, B4-mid, commit | Xác nhận đúng bản khóa | [Điền sau] |
-| P3 · Chốt QA mù | Thanh → Cao, Huan | `qa_review.md`, findings, ảnh bằng chứng | Cao kiểm frame/object/rule | [Điền sau] |
-| P4 · Quyết định sửa | Cao → Huan, Thanh | finding, decision log, commit | Nhận quyết định sửa | [Điền sau] |
-| P5 · Kiểm bản sửa | Huan → Thanh → Cao | v2, lock2, review, delta | Thanh kiểm lại; Cao đọc delta | [Điền sau] |
-| P6 · Chốt nộp | Huan, Thanh → Cao | manifest, commit chốt | Cao chạy `check` | [Điền sau] |
+| P2 · Khóa bản đầu | Huan → Thanh, Cao | XML, `lock.txt`, B4-mid, commit | Xác nhận đúng bản khóa | Đã có lock r1_craft; Cao kiểm hash và báo cáo |
+| P3 · Chốt QA mù | Thanh → Cao, Huan | `qa_review.md`, findings, ảnh bằng chứng | Cao kiểm frame/object/rule | Có ảnh QA cho 261480 và 265065; findings đã triage |
+| P4 · Quyết định sửa | Cao → Huan, Thanh | finding, decision log, commit | Nhận quyết định sửa | Đã ghi D01–D04; R4 được escalate để kiểm thêm |
+| P5 · Kiểm bản sửa | Huan → Thanh → Cao | v2, lock2, review, delta | Thanh kiểm lại; Cao đọc delta | lock2 `791B-49BF`; delta ghi mid 1→8 matched, 12→5 missing |
+| P6 · Chốt nộp | Huan, Thanh → Cao | manifest, commit chốt | Cao chạy `check` | Đã điền kế hoạch/ticket; còn chạy check cuối và cập nhật manifest |

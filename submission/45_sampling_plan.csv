@@ -1,9 +1,9 @@
 camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+front,normal,28,"occlusion and ordinary traffic","Sample spaced timestamps across routes; retain ego pose, calibration and visible-object evidence"
+front,hard,32,"seam, fisheye distortion and small vulnerable road users","Oversample turns, close objects and front-corner overlap; do not count adjacent frames from one event as independent cases"
+rear,normal,22,"ordinary following traffic and rear truncation","Use separated driving contexts; retain rear-camera calibration and object visibility intervals"
+rear,hard,28,"night, glare, occlusion and reverse manoeuvres","Select diverse hard events rather than a burst; retain exposure, timestamp and Outside evidence"
+left,normal,24,"side traffic and partial visibility","Cover different distances and speeds; keep camera pose and calibration metadata"
+left,hard,26,"side seam, parked vehicles and heavy occlusion","Prioritize overlap and boundary cases; sample across independent scenes"
+right,normal,18,"side traffic with ordinary perspective","Spread across routes and lighting; retain visible extent and timestamp"
+right,hard,22,"side seam, fisheye distortion and vulnerable road users","Select independent corner/seam events; preserve calibration and disagreement evidence"
